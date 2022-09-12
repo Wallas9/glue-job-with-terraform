@@ -1,4 +1,3 @@
 *.exe
 *.csv
-variables.tf
 provider.tf
